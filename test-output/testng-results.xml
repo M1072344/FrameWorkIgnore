@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9347" started-at="2022-05-22T17:34:30Z" finished-at="2022-05-22T17:34:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9347" started-at="2022-05-22T17:34:30Z" finished-at="2022-05-22T17:34:39Z">
+      <class name="com.lambda.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lambda.qa.testcases.HomePageTest@6fc6f14e]" name="setup" is-config="true" duration-ms="2448" started-at="2022-05-22T17:34:30Z" finished-at="2022-05-22T17:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillTheform()[pri:0, instance:com.lambda.qa.testcases.HomePageTest@6fc6f14e]" name="fillTheform" duration-ms="5725" started-at="2022-05-22T17:34:32Z" finished-at="2022-05-22T17:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillTheform -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.lambda.qa.testcases.HomePageTest@6fc6f14e]" name="teardown" is-config="true" duration-ms="1153" started-at="2022-05-22T17:34:38Z" finished-at="2022-05-22T17:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.lambda.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
